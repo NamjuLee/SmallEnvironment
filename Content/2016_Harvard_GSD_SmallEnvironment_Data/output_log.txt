@@ -1,0 +1,23 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M          (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     2991 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\P19      [Development  Stand-alone]\[LandBox_SmallEnvironment]\[Final]SmallAsteroid\2016_Harvard_GSD_SmallEnvironment_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\P19      [Development  Stand-alone]\[LandBox_SmallEnvironment]\[Final]SmallAsteroid\2016_Harvard_GSD_SmallEnvironment_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\P19      [Development  Stand-alone]\[LandBox_SmallEnvironment]\[Final]SmallAsteroid\2016_Harvard_GSD_SmallEnvironment_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading Z:\P19      [Development  Stand-alone]\[LandBox_SmallEnvironment]\[Final]SmallAsteroid\2016_Harvard_GSD_SmallEnvironment_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: Z:\P19      [Development  Stand-alone]\[LandBox_SmallEnvironment]\[Final]SmallAsteroid\2016_Harvard_GSD_SmallEnvironment_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\P19      [Development  Stand-alone]\[LandBox_SmallEnvironment]\[Final]SmallAsteroid\2016_Harvard_GSD_SmallEnvironment_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\P19      [Development  Stand-alone]\[LandBox_SmallEnvironment]\[Final]SmallAsteroid\2016_Harvard_GSD_SmallEnvironment_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\P19      [Development  Stand-alone]\[LandBox_SmallEnvironment]\[Final]SmallAsteroid\2016_Harvard_GSD_SmallEnvironment_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Z:\P19      [Development  Stand-alone]\[LandBox_SmallEnvironment]\[Final]SmallAsteroid\2016_Harvard_GSD_SmallEnvironment_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Z:\P19      [Development  Stand-alone]\[LandBox_SmallEnvironment]\[Final]SmallAsteroid\2016_Harvard_GSD_SmallEnvironment_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: Z:\P19      [Development  Stand-alone]\[LandBox_SmallEnvironment]\[Final]SmallAsteroid\2016_Harvard_GSD_SmallEnvironment_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.053 seconds
+desktop: 2560x1440 60Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.

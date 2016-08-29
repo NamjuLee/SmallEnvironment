@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 8bda6a2325c7bd64a981ba393e132cda
+timeCreated: 1461949690
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: GeoSphere001
+    100002: GeoSphere002
+    100004: GeoSphere003
+    100006: GeoSphere004
+    100008: GeoSphere005
+    100010: GeoSphere006
+    100012: GeoSphere007
+    100014: //RootNode
+    400000: GeoSphere001
+    400002: GeoSphere002
+    400004: GeoSphere003
+    400006: GeoSphere004
+    400008: GeoSphere005
+    400010: GeoSphere006
+    400012: GeoSphere007
+    400014: //RootNode
+    2300000: GeoSphere001
+    2300002: GeoSphere002
+    2300004: GeoSphere003
+    2300006: GeoSphere004
+    2300008: GeoSphere005
+    2300010: GeoSphere006
+    2300012: GeoSphere007
+    3300000: GeoSphere001
+    3300002: GeoSphere002
+    3300004: GeoSphere003
+    3300006: GeoSphere004
+    3300008: GeoSphere005
+    3300010: GeoSphere006
+    3300012: GeoSphere007
+    4300000: GeoSphere001
+    4300002: GeoSphere002
+    4300004: GeoSphere003
+    4300006: GeoSphere004
+    4300008: GeoSphere005
+    4300010: GeoSphere006
+    4300012: GeoSphere007
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GeoSphere001
+        weight: 1
+      - path: GeoSphere002
+        weight: 1
+      - path: GeoSphere003
+        weight: 1
+      - path: GeoSphere004
+        weight: 1
+      - path: GeoSphere005
+        weight: 1
+      - path: GeoSphere006
+        weight: 1
+      - path: GeoSphere007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
