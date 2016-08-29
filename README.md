@@ -3,7 +3,7 @@ Immersive Landscape: Representation through Gamming Technology (VIS 0244900), Ha
 Prof. Eric de Broche des Combess
 This project got the first prize(Distinction) in the class.
 
-[the web link](http://www.njstudio.co.kr/main/project/2016_SmallEnvironments/2016_SmallEnvironments.html)
+[Web link](http://www.njstudio.co.kr/main/project/2016_SmallEnvironments/2016_SmallEnvironments.html)
 
 This is an implementation of LandBox algorithms. It has four different game modes. 
 1. Tutorial model
