@@ -1,6 +1,6 @@
 # Small Environments
-Immersive Landscape: Representation through Gamming Technology (VIS 0244900), Harvard GSD
-Prof. Eric de Broche des Combess
+Immersive Landscape: Representation through Gamming Technology (VIS 0244900), Harvard GSD. 
+Prof. Eric de Broche des Combess. 
 This project got the first prize(Distinction) in the class.
 
 [Web link](http://www.njstudio.co.kr/main/project/2016_SmallEnvironments/2016_SmallEnvironments.html)
